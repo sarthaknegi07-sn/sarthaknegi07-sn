@@ -7,7 +7,7 @@ I’m a passionate Computer Science student interested in Machine Learning and B
 ---
 
 ## 🔧 Skills
-- C, Python, SQL
+- C, Python, SQL, C++, Java
 - Data Structures & Algorithms
 - MySQL, Git & GitHub
 
