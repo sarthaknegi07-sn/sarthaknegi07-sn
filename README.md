@@ -1,21 +1,31 @@
-👋 Welcome to my GitHub!
-Developer & CS Student 🚀 
-🎓 B.Tech CSE @ Graphic Era Hill University, Dehradun
-💻 Passionate about Machine Learning & Deep Learning
+## 👋 Welcome to My GitHub!
 
-Hi, I'm a Computer Science student interested in
-DSA, Backend Development, and Machine Learning.
+### 🚀 Developer | 🎓 B.Tech CSE  
 
-🔧 Skills
-C, Python, SQL
-Data Structures & Algorithms
-MySQL, Git & GitHub
-📌 Projects
-🧮 Monte Carlo Risk Simulation
-    Civic Issue Management System
-🌱 Currently Learning
-Advanced DSA
-System Design Basics
-Core ML/DL concepts
-diving more into ml
+I’m a passionate Computer Science student interested in Machine Learning and Backend Development.
+
+---
+
+## 🔧 Skills
+- C, Python, SQL
+- Data Structures & Algorithms
+- MySQL, Git & GitHub
+
+---
+
+## 📌 Projects
+- Monte Carlo Risk Simulation  
+- Civic Issue Management System 
+- University Result Management System
+
+---
+
+## 🌱 Currently Learning
+- Advanced DSA  
+- System Design  
+- Machine Learning
+- Diving Depper into ML  
+
+---
+
 ⭐ Feel free to explore my repositories!
