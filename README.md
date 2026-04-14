@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Welcome to my GitHub!
+Developer & CS Student 🚀 🎓 B.Tech CSE @ Graphic Era Hill University, Dehradun
+💻 Passionate about Machine Learning & Deep Learning
 
-<!--
-**sarthaknegi07-sn/sarthaknegi07-sn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm a Computer Science student interested in
+DSA, Backend Development, and Machine Learning.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Skills
+C, Python, SQL
+Data Structures & Algorithms
+MySQL, Git & GitHub
+📌 Projects
+🧮 Monte Carlo Risk Simulation
+🌱 Currently Learning
+Advanced DSA
+System Design Basics
+Core ML/DL concepts
+diving more into ml
+⭐ Feel free to explore my repositories!
