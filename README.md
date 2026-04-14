@@ -1,5 +1,6 @@
 👋 Welcome to my GitHub!
-Developer & CS Student 🚀 🎓 B.Tech CSE @ Graphic Era Hill University, Dehradun
+Developer & CS Student 🚀 
+🎓 B.Tech CSE @ Graphic Era Hill University, Dehradun
 💻 Passionate about Machine Learning & Deep Learning
 
 Hi, I'm a Computer Science student interested in
@@ -11,6 +12,7 @@ Data Structures & Algorithms
 MySQL, Git & GitHub
 📌 Projects
 🧮 Monte Carlo Risk Simulation
+    Civic Issue Management System
 🌱 Currently Learning
 Advanced DSA
 System Design Basics
