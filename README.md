@@ -1,8 +1,9 @@
 ## 👋 Welcome to My GitHub!
 
-### 🚀 Developer | 🎓 B.Tech CSE  
-
-I’m a passionate Computer Science student interested in Machine Learning and Backend Development.
+Developer & Innovator
+🎓 B.Tech CSE @ Graphic Era Hill University, Dehradun
+💻 Passionate about: Machine Learning | Deep Learning
+🔬 Currently Working On:
 
 ---
 
