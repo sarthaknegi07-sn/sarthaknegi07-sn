@@ -57,3 +57,9 @@
 I enjoy solving coding challenges, building projects, and continuously learning new technologies.
 
 ⭐ **Feel free to explore my repositories and connect with me!**
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/your-profile
+- 📧 Email: your-email@example.com
+- 💻 GitHub: https://github.com/sarthaknegi07-sn
