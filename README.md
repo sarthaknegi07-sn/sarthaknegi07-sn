@@ -58,6 +58,8 @@ I enjoy solving coding challenges, building projects, and continuously learning 
 
 ⭐ **Feel free to explore my repositories and connect with me!**
 
+---
+
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/your-profile
