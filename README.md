@@ -64,4 +64,3 @@ I enjoy solving coding challenges, building projects, and continuously learning 
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sarthak-negi-399368329/
 - 📧 Email: sarthakn1122@gmail.com
-- 💻 GitHub: https://github.com/sarthaknegi07-sn
