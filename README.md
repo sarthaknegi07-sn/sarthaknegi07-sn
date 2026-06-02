@@ -1,8 +1,12 @@
 ## 👋 Welcome to My GitHub!
 
-##Developer & Innovator
+## 🚀 Developer & Innovator
+
 🎓 B.Tech CSE @ Graphic Era Hill University, Dehradun
-💻 Passionate about: Machine Learning | Deep Learning
+
+💻 Passionate about:
+Machine Learning | Deep Learning | Artificial Intelligence
+
 🔬 Currently Working On:
 
 ---
