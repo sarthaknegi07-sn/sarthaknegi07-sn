@@ -27,20 +27,33 @@ I enjoy solving coding problems, building projects, and continuously learning ne
 
 ---
 
-💻 Skills:
-C • C++ • Python • Java • SQL • DSA • MySQL • Git • GitHub
+🔧 Skills
+- C
+- C++
+- Python
+- Java
+- SQL
+- Data Structures & Algorithms
+- MySQL
+- Git & GitHub
 
-📌 Projects:
-• Monte Carlo Risk Simulation
-• Civic Issue Management System
-• University Result Management System
+📌 Projects
+- 🎲 Monte Carlo Risk Simulation
+- 🏛️ Civic Issue Management System
+- 🎓 University Result Management System
 
-🌱 Currently Learning:
-• DSA (Striver A2Z)
-• Daily LeetCode Problem Solving
-• System Design
-• Machine Learning & Deep Learning
-• Web Development
+🌱 Currently Learning
+- 📚 Data Structures & Algorithms (Striver A2Z)
+- 🔥 Daily LeetCode Problem Solving
+- 🏗️ System Design
+- 🤖 Machine Learning
+- 🌐 Web Development
+
+🎯 Current Focus
+- Solving LeetCode consistently
+- Strengthening DSA concepts
+- Building real-world projects
+- Exploring AI & ML applications
 
 🎯 Aspiring Software Engineer passionate about building scalable solutions and continuously improving problem-solving skills.
 
