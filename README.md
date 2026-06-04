@@ -18,9 +18,20 @@
 
 ## 📌 Projects
 
+- 🤟 SignBridge-ISL-Translation
+Real-time Indian Sign Language translation system using MediaPipe, Bi-LSTM with Attention, and Edge-TTS to convert sign gestures into text and natural-sounding speech.
+
+- 🧠 ATHENA-ISL-Recognition
+A real-time ISL recognition engine that identifies hand gestures (A-Z, 0-9) using computer vision and deep learning with high accuracy and stability.
+
 - 🎲 Monte Carlo Risk Simulation
+Monte Carlo-based risk analysis and forecasting system for stock price and inventory simulations.
+
 - 🏛️ Civic Issue Management System
+Web-based platform for reporting, tracking, and managing public grievances with priority-based complaint handling.
+
 - 🎓 University Result Management System
+Student result management portal for storing, managing, and generating academic records efficiently.
 
 ---
 
