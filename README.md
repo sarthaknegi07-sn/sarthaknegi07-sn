@@ -59,7 +59,7 @@ Student result management portal for storing, managing, and generating academic 
 - Master DSA and Competitive Programming
 - Build impactful Full-Stack and AI/ML projects
 - Secure a Software Engineering Internship
-- Contribute to Open Source Projects.
+- Contribute to Open Source Projects
 
 ---
 
