@@ -13,7 +13,7 @@
 - **Languages:** C, C++, Python, Java, SQL
 - **Core Concepts:** Data Structures & Algorithms, OOPs, DBMS
 - **Tools & Technologies:** MySQL, Git, GitHub
-
+kldod
 ---
 
 ## 📌 Projects
