@@ -51,6 +51,7 @@ Student result management portal for storing, managing, and generating academic 
 - Strengthening DSA and problem-solving skills
 - Building real-world software projects
 - Exploring AI/ML applications
+- Mastering Development area
 
 ---
 
