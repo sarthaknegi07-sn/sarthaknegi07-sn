@@ -3,6 +3,7 @@
 ## 🚀 Developer & Innovator
 
 🎓 B.Tech CSE (AI/ML) @ Graphic Era Hill University, Dehradun
+dnbcj
 
 💻 Passionate about **Machine Learning, Deep Learning, Software Development, and Problem Solving**
 
