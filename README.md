@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub!
 
 ## 🚀 Developer & Innovator
-swswsw
+
 🎓 B.Tech CSE (AI/ML) @ Graphic Era Hill University, Dehradun
 
 💻 Passionate about **Machine Learning, Deep Learning, Software Development, and Problem Solving**
