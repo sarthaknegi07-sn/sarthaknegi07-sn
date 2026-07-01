@@ -12,7 +12,7 @@
 
 - **Languages:** C, C++, Python, Java, SQL
 - **Core Concepts:** Data Structures & Algorithms, OOPs, DBMS
-- **Tools & Technologies:** MySQL, Git, GitHub
+- **Tools & Technologies:** MySQL, VS Code, GitHub
   
 ---
 
@@ -41,7 +41,7 @@ Student result management portal for storing, managing, and generating academic 
 - 🔥 Daily LeetCode Problem Solving
 - 🏗️ System Design Fundamentals
 - 🤖 Machine Learning & Deep Learning
-- 🌐 Web Development->HTML ✅
+- 🌐 Web Development->HTML ✅ CSS ✅
 ---
 
 ## 🎯 Current Focus
