@@ -27,7 +27,7 @@ A real-time ISL recognition engine that identifies hand gestures (A-Z, 0-9) usin
 - 🎲 Monte Carlo Risk Simulation
 Monte Carlo-based risk analysis and forecasting system for stock price and inventory simulations.
 
-- 🏛️ Civic Issue Management System
+- 🏛️ Civic Issue Management System03
 Web-based platform for reporting, tracking, and managing public grievances with priority-based complaint handling.
 
 - 🎓 University Result Management System
