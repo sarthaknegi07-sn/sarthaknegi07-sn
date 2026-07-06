@@ -13,7 +13,7 @@ nk
 
 - **Languages:** C, C++, Python, Java, SQL
 - **Core Concepts:** Data Structures & Algorithms, OOPs, DBMS
-- **Tools & Technologies:** MySQL, VS Code, GitHub
+- **Tools & Technologies:** MySQL, VS Code, GitHub, HTML
   
 ---
 
