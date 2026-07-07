@@ -1,4 +1,3 @@
-nk
 # 👋 Welcome to My GitHub!
 
 ## 🚀 Developer & Innovator
