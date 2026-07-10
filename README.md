@@ -75,5 +75,5 @@ I enjoy solving coding challenges, building projects, and continuously learning 
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sarthak-negi-399368329/
 - 📧 Email: sarthakn1122@gmail.com
--  <img width="18" height="16" alt="image" src="https://github.com/user-attachments/assets/d3a9902d-e012-45cf-91d7-e2b33a56489d" /> LeetCode: https://leetcode.com/u/sarthakng/
+-  <img width="18" height="16" alt="image" src="https://github.com/user-attachments/assets/d3a9902d-e012-45cf-91d7-e2b33a56489d" /> LeetCode: https://leetcode.com/u/ng_s/
 
