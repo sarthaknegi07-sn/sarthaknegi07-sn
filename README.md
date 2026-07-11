@@ -41,7 +41,7 @@ Student result management portal for storing, managing, and generating academic 
 - 🔥 Daily LeetCode Problem Solving
 - 🏗️ System Design Fundamentals
 - 🤖 Machine Learning & Deep Learning
-- 🌐 Web Development->HTML ✅ CSS ✅
+- 🌐 Web Development->HTML ✅ CSS ✅ JAVASCRIPT
 ---
 
 ## 🎯 Current Focus
